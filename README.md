@@ -31,6 +31,22 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" class="tool-icon"/>  
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" class="tool-icon"/> 
+    </a>
+    <a href="https://github.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+    </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+    </a>
+    <a href="https://www.php.net" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
+    </a>
 </p>
 
 <!-- GitHub Stats and Top Languages with Flip Animation -->
