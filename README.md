@@ -32,21 +32,29 @@ Python • Git • GitHub • Web Technologies
 
 <div align="center">
 
+<table>
+<tr>
+
+<td align="center">
 <a href="https://www.linkedin.com/in/chandika-eka-prasetya-9623773b2/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="background:#0A66C2;padding:8px;border-radius:8px"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" height="40" style="background:#0A66C2;padding:8px;border-radius:8px"/>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
+<td align="center">
 <a href="https://www.instagram.com/chandika28_/" target="_blank">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40"/>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
+<td align="center">
 <a href="mailto:dikasoetta16@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40"/>
 </a>
+</td>
+
+</tr>
+</table>
 
 </div>
 
