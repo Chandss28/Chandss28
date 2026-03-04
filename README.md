@@ -45,6 +45,7 @@ Python • Git • GitHub • Web Technologies
 <a href="mailto:dikasoetta16@gmail.com">
 <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="42" height="42"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
 </p>
 <a href="mailto:dikasoetta16@gmail.com">
