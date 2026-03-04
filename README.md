@@ -36,10 +36,6 @@ Python • Git • GitHub • Web Technologies
 <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40"/>
 </a>
 
-<a href="https://github.com/Chandss28" target="_blank">
-<img src="https://cdn.simpleicons.org/github/181717" width="40" height="40"/>
-</a>
-
 <a href="https://www.instagram.com/chandika28_/" target="_blank">
 <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40"/>
 </a>
