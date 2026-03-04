@@ -27,10 +27,9 @@ I am interested in **Artificial Intelligence, Data Analytics, and Intelligent Sy
 Python • Git • GitHub • Web Technologies
 
 ---
-
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/chandika-eka-prasetya-9623773b2/" target="_blank">
 <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40"/>
