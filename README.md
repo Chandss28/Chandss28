@@ -17,8 +17,8 @@ I am interested in **Artificial Intelligence, Data Analytics, and Intelligent Sy
 
 ## 🚀 Current Focus
 
-- Artificial Intelligence
-- Data Analytics
+- Artificial Intelligence  
+- Data Analytics  
 
 ---
 
@@ -30,25 +30,25 @@ Python • Git • GitHub • Web Technologies
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/chandika-eka-prasetya-9623773b2/" target="_blank" rel="noopener">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="44" height="44" style="background:#0A66C2;padding:6px;border-radius:8px"/>
+<a href="https://www.linkedin.com/in/chandika-eka-prasetya-9623773b2/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="background:#0A66C2;padding:8px;border-radius:8px"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.instagram.com/chandika28_/" target="_blank" rel="noopener">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="44" height="44"/>
+<a href="https://www.instagram.com/chandika28_/" target="_blank">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="40" height="40"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:dikasoetta16@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="44" height="44"/>
+<img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="40" height="40"/>
 </a>
 
-</p>
+</div>
 
 ---
 
