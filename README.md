@@ -19,7 +19,7 @@ I am interested in **Artificial Intelligence, Data Analytics, and Intelligent Sy
 
 - Artificial Intelligence
 - Data Analytics
-  
+
 ---
 
 ## 🛠 Tech Stack
@@ -31,17 +31,23 @@ Python • Git • GitHub • Web Technologies
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chandika-eka-prasetya-9623773b2/" target="_blank" rel="noopener">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="44" height="44"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/chandika28_/" target="_blank" rel="noopener">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="44" height="44"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:dikasoetta16@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="44" height="44"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/chandika-eka-prasetya-9623773b2/" target="_blank" rel="noopener">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="44" height="44" style="background:#0A66C2;padding:6px;border-radius:8px"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/chandika28_/" target="_blank" rel="noopener">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="44" height="44"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:dikasoetta16@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="44" height="44"/>
+</a>
+
 </p>
 
 ---
