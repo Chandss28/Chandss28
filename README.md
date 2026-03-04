@@ -30,11 +30,25 @@ Python • Git • GitHub • Web Technologies
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chandika%20Eka%20Prasetya-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chandika-eka-prasetya-9623773b2/)
+<p align="left">
 
-[![Instagram](https://img.shields.io/badge/Instagram-@chandika28__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chandika28_/)
+<a href="https://www.linkedin.com/in/chandika-eka-prasetya-9623773b2/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="linkedin" width="30" height="30"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Gmail-dikasoetta16@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dikasoetta16@gmail.com)
+<a href="https://github.com/Chandss28" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="github" width="30" height="30"/>
+</a>
+
+<a href="https://www.instagram.com/chandika28_/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="instagram" width="30" height="30"/>
+</a>
+
+<a href="mailto:dikasoetta16@gmail.com">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="gmail" width="30" height="30"/>
+</a>
+
+</p>
 
 ---
 
