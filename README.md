@@ -48,11 +48,6 @@ Python • Git • GitHub • Web Technologies
 &nbsp;&nbsp;&nbsp;
 
 </p>
-<a href="mailto:dikasoetta16@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40"/>
-</a>
-
-</p>
 
 ---
 
