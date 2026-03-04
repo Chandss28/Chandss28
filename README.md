@@ -33,19 +33,19 @@ Python • Git • GitHub • Web Technologies
 <p align="left">
 
 <a href="https://www.linkedin.com/in/chandika-eka-prasetya-9623773b2/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="linkedin" width="30" height="30"/>
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40"/>
 </a>
 
 <a href="https://github.com/Chandss28" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="github" width="30" height="30"/>
+<img src="https://cdn.simpleicons.org/github/181717" width="40" height="40"/>
 </a>
 
 <a href="https://www.instagram.com/chandika28_/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="instagram" width="30" height="30"/>
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40"/>
 </a>
 
 <a href="mailto:dikasoetta16@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="gmail" width="30" height="30"/>
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40"/>
 </a>
 
 </p>
